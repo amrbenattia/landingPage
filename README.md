@@ -16,13 +16,13 @@ This landing page project to build a multi-section landing page, with a dynamica
 ## Architecture 
 The project is structured like the one shown below.
 ```
--landingPageProject
- - css
-  - styles.css    
- - index.html
- -js
-  - app.js
- -README.md
+
+css
+- styles.css    
+index.html
+js
+- app.js
+README.md
 ```
 
 ## Usability
