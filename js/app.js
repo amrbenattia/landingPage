@@ -56,7 +56,7 @@ for ( landingContainer of landingContainers ){
 
   let section = landingContainer.parentNode;
   document.addEventListener("scroll",function () {
-    if (isElementVisible(section, 0.5)) {
+    if (isElementVisible(section, 0.4946)) {
         section.classList.add('your-active-class');
     }else{
       section.classList.remove("your-active-class");
@@ -65,7 +65,7 @@ for ( landingContainer of landingContainers ){
 };
 
 // Scroll to anchor ID using scrollTO event
-let links = document.querySelectorAll('nav ul li a');
+let links = document.querySelectorAll('a.menu__link');
  
 for (let item of links) { 
   

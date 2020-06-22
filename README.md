@@ -37,5 +37,5 @@ Styling has been added for active states.
 
 ## Contribution to this project
 - The navigation menu is built dynamically as an unordered list.
-- When section is being viewed (more than 50% of its view hight) while scrolling through the page an active-class with moving background and color change is added automatically.
+- When section is being viewed (about 50% of its view hight) while scrolling through the page an active-class with moving background and color change is added automatically.
 - When clicking an item from the navigation menu, the link scrolls to the appropriate section.
